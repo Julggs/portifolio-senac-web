@@ -40,5 +40,4 @@ function calcular() {
     output.innerText = `R$ ${valor.toFixed(2)}`
 
 }
-
 // Mostrar o preço
